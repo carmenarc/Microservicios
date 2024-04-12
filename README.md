@@ -1,5 +1,5 @@
 # microservicios
->     MICROSERVICIOS CON DOCKER, PHP Y MYSQL
+MICROSERVICIOS CON DOCKER, PHP Y MYSQL
 Este es un ejemplo de implementación de microservicios con Docker en AWS.
 > 
 > Los microservicios en AWS con Docker, PHP y MySQL representan una arquitectura de desarrollo de aplicaciones distribuidas que aprovecha los servicios en la nube de Amazon Web Services (AWS) junto con tecnologías como Docker, PHP y MySQL. Aquí te explico qué implica cada componente:
@@ -7,6 +7,13 @@ Este es un ejemplo de implementación de microservicios con Docker en AWS.
 Microservicios: En lugar de construir una aplicación monolítica, los microservicios dividen una aplicación en pequeños servicios independientes, cada uno enfocado en una tarea específica o función de negocio. Estos servicios se pueden desarrollar, desplegar y escalar de forma independiente. Esto facilita la modularidad, la escalabilidad y la actualización de partes específicas de la aplicación sin afectar al conjunto completo.
 
 AWS (Amazon Web Services): Es una plataforma de servicios en la nube que ofrece una amplia gama de servicios para ayudar a las empresas a desarrollar y ejecutar aplicaciones de manera escalable y segura. AWS proporciona servicios como computación en la nube, almacenamiento, bases de datos, análisis, machine learning, entre otros.
+
+
+
+
+
+
+
 
 Docker: Es una plataforma de contenedores que permite empaquetar aplicaciones y sus dependencias en contenedores virtualizados y portátiles. Docker facilita la creación, implementación y administración de aplicaciones en entornos de desarrollo y producción, al proporcionar un entorno aislado y consistente en cualquier infraestructura.
 
